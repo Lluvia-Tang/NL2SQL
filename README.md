@@ -5,7 +5,7 @@ Reading List of NL2SQL(Text-to-SQL) task.
 ## 1. Paper
 1. Yang Wu, Yanyan Zhao, Hao Yang, Song Chen, Bing Qin, Xiaohuan Cao, Wenting Zhao. **Uncovering and Categorizing Social Biases in Text-to-SQL**. ACL 2023. [[paper]](https://aclanthology.org/2023.acl-long.759/) [[code]](https://github.com/theNamek/Trustworthy-Text2SQL)
 
-1. Robert Giaquinto, Dejiao Zhang, et. **Multitask Pretraining with Structured Knowledge for Text-to-SQL Generation**. NAACL short 2022. [[paper]](https://aclanthology.org/2023.acl-long.620/)
+1. Robert Giaquinto, Dejiao Zhang, et. **Multitask Pretraining with Structured Knowledge for Text-to-SQL Generation**. ACL short 2022. [[paper]](https://aclanthology.org/2023.acl-long.620/)
 
 2. Aiwei Liu, Wei Liu, et. **Exploring the Compositional Generalization in Context Dependent Text-to-SQL Parsing**. ACL finding 2023. [[paper]](https://aclanthology.org/2023.findings-acl.43/) [[code]](https://github.com/THU-BPM/CD-Text2SQL-CG)
 
