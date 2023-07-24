@@ -2,12 +2,6 @@
 Reading List of NL2SQL(Text-to-SQL) task.
 
 
-### Contents
-
-- [1. Paper]
-  
-- [2. Datasets]
-
 ## 1. Paper
 1. Yang Wu, Yanyan Zhao, Hao Yang, Song Chen, Bing Qin, Xiaohuan Cao, Wenting Zhao. **Uncovering and Categorizing Social Biases in Text-to-SQL**. ACL 2023. [[paper]](https://aclanthology.org/2023.acl-long.759/) [[code]](https://github.com/theNamek/Trustworthy-Text2SQL)
 
