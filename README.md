@@ -25,7 +25,11 @@ Reading List of NL2SQL(Text-to-SQL) task.
 
 10. (综述)Bowen Qin, Binyuan Hui, Lihan Wang, et. **A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions**. 2022 [[paper]](https://arxiv.org/abs/2208.13629)
 
-11. (GCN结合相关)Ruichu Cai, et. **SADGA: Structure-Aware Dual Graph Aggregation Network for Text-to-SQL**. NIPS 2021 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3f1656d9668dffcf8119e3ecff873558-Abstract.html)
+11. (图相关)Ruichu Cai, et. **SADGA: Structure-Aware Dual Graph Aggregation Network for Text-to-SQL**. NIPS 2021 [[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/hash/3f1656d9668dffcf8119e3ecff873558-Abstract.html)
+
+12. (图)Ruisheng Cao, Lu Chen, et. **LGESQL: Line Graph Enhanced Text-to-SQL Model with Mixed Local and Non-Local Relations**. ACL 2021 [[paper]] (https://aclanthology.org/2021.acl-long.198/) [[code]](https://github.com/rhythmcao/text2sql-lgesql)
+
+13. (图) Bailin Wang, Richard Shin, et. **RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers** ACL 2020 [[paper]](https://aclanthology.org/2020.acl-main.677/) [[code]](https://github.com/Microsoft/rat-sql)
 
 
 
