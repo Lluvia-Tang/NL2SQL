@@ -1,4 +1,4 @@
-# MultiModal-Reading-List
+# NL2SQL-Reading-List
 Reading List of NL2SQL(Text-to-SQL) task.
 
 
